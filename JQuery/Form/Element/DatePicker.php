@@ -24,11 +24,7 @@
  * @see ZendX_JQuery_Form_Element_UiWidget
  */
 require_once "UiWidget.php";
-
-/**
- * Form Element for jQuery DatePicker View Helper
- *
- * @package    ZendX_JQuery
+hgjfggfjdf
  * @subpackage Form
  * @copyright  Copyright (c) 2005-2010 Zend Technologies USA Inc. (http://www.zend.com)
  * @license    http://framework.zend.com/license/new-bsd     New BSD License
